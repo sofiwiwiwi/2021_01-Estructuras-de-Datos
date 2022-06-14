@@ -1,0 +1,33 @@
+Nombre 1: Matías Gutiérrez
+ROL 1: 202004581-K
+Programó:
+    problema_2.cpp:
+        * polynomialTree::maxDegree
+        * polynomialTree::maxDegreeHelp
+        * polynomialTree::evaluate
+        * polynomialTree::evaluateHelp
+
+Nombre 2: Sofía Riquelme
+ROL 2: 202073615-4
+Programó:
+    problema_2.cpp:
+        *polynomialTree::getCoefficient
+        *polynomialTree::getCoefficientHelp
+
+
+Nombre 3: Bayron Valenzuela
+ROL 3: 202073580-8
+Programó:
+    problema_1.cpp
+    polynomialList.hpp
+    polynomial.hpp
+    problema_2.cpp
+        * polynomialTree
+        * ~polynomialTree
+        * polynomialTree::helpDestructor
+        * polynomialTree::insert
+        * polynomialTree::insertHelp
+        * main
+
+polynomialTree.hpp:
+    c/u agregó las funciones que programó.

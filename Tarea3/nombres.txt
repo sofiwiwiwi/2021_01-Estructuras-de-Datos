@@ -1,0 +1,19 @@
+Nombre 1: Gabriel Ortiz 
+ROL 1: 202073535-2
+Programó:
+    saleHashTable.cpp
+    saleHashTable.hpp
+    productHashTable.cpp
+    productHashTable.hpp
+    
+Nombre 2: Bayron Valenzuela
+ROL 2: 202073580-8
+Programó:
+    productCounter.cpp
+    productCounter.hpp
+    función get_relative_prime() utilizada en productCounter, saleHashTable y productHashTable
+
+Nombre 3: Sofía Riquelme
+ROL 3: 202073615-4
+Programó:
+    main.cpp
